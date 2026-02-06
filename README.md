@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🚀 Quick Start (2 Minutes)
 
@@ -148,17 +147,6 @@ Try typing:
 
 Watch it auto-resolve instantly! ✨
 
-## 🤝 Contributing
-
-Contributions welcome! Please read our contributing guidelines.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
-
-## 🌟 Star This Repo!
-
-If you find this helpful, please ⭐ star this repository!
 
 ---
 
